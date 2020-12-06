@@ -14,7 +14,7 @@ Steps :
 
 Commands 
 
-``
+```
 
 
 mvn install
@@ -28,7 +28,8 @@ mvn springboot:run
 Creating the front end Using Angular material IO
 
 Use the Angular CLI's install schematic to set up your Angular Material project ( for more https://material.angular.io/guide/getting-started)
-``
+
+```
 ng add @angular/material
 
 ```
